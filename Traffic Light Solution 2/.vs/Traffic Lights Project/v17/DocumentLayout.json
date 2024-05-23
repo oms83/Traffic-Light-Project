@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omerm\\Desktop\\Advanced Concepts In C#\\Traffic Lights Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2154965B-C6D1-4B27-B011-B304940E1AB1}|..\\Traffic Light Solution 4\\Traffic Light Solution 3.csproj|c:\\users\\omerm\\desktop\\advanced concepts in c#\\traffic light solution 4\\ctrltrafficlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2154965B-C6D1-4B27-B011-B304940E1AB1}|..\\Traffic Light Solution 4\\Traffic Light Solution 3.csproj|c:\\users\\omerm\\desktop\\advanced concepts in c#\\traffic light solution 4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2154965B-C6D1-4B27-B011-B304940E1AB1}|..\\Traffic Light Solution 4\\Traffic Light Solution 3.csproj|c:\\users\\omerm\\desktop\\advanced concepts in c#\\traffic light solution 4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 256,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ctrlTrafficLight.cs",
+              "DocumentMoniker": "C:\\Users\\omerm\\Desktop\\Advanced Concepts In C#\\Traffic Light Solution 4\\ctrlTrafficLight.cs",
+              "RelativeDocumentMoniker": "..\\Traffic Light Solution 4\\ctrlTrafficLight.cs",
+              "ToolTip": "C:\\Users\\omerm\\Desktop\\Advanced Concepts In C#\\Traffic Light Solution 4\\ctrlTrafficLight.cs",
+              "RelativeToolTip": "..\\Traffic Light Solution 4\\ctrlTrafficLight.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:47:05.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\omerm\\Desktop\\Advanced Concepts In C#\\Traffic Light Solution 4\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Traffic Light Solution 4\\Form1.cs",
+              "ToolTip": "C:\\Users\\omerm\\Desktop\\Advanced Concepts In C#\\Traffic Light Solution 4\\Form1.cs",
+              "RelativeToolTip": "..\\Traffic Light Solution 4\\Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADgvxUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:34:43.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\omerm\\Desktop\\Advanced Concepts In C#\\Traffic Light Solution 4\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Traffic Light Solution 4\\Form1.cs",
+              "ToolTip": "C:\\Users\\omerm\\Desktop\\Advanced Concepts In C#\\Traffic Light Solution 4\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Traffic Light Solution 4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:33:31.88Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

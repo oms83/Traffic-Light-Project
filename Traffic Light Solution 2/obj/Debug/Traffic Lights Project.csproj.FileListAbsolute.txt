@@ -1,0 +1,11 @@
+C:\Users\omerm\Desktop\Advanced Concepts In C#\Traffic Lights Project\bin\Debug\Traffic Lights Project.exe.config
+C:\Users\omerm\Desktop\Advanced Concepts In C#\Traffic Lights Project\bin\Debug\Traffic Lights Project.exe
+C:\Users\omerm\Desktop\Advanced Concepts In C#\Traffic Lights Project\bin\Debug\Traffic Lights Project.pdb
+C:\Users\omerm\Desktop\Advanced Concepts In C#\Traffic Lights Project\obj\Debug\Traffic Lights Project.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\Advanced Concepts In C#\Traffic Lights Project\obj\Debug\Traffic_Lights_Project.ctrlLight.resources
+C:\Users\omerm\Desktop\Advanced Concepts In C#\Traffic Lights Project\obj\Debug\Traffic_Lights_Project.Properties.Resources.resources
+C:\Users\omerm\Desktop\Advanced Concepts In C#\Traffic Lights Project\obj\Debug\Traffic Lights Project.csproj.GenerateResource.cache
+C:\Users\omerm\Desktop\Advanced Concepts In C#\Traffic Lights Project\obj\Debug\Traffic Lights Project.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\Advanced Concepts In C#\Traffic Lights Project\obj\Debug\Traffic Lights Project.exe
+C:\Users\omerm\Desktop\Advanced Concepts In C#\Traffic Lights Project\obj\Debug\Traffic Lights Project.pdb
+C:\Users\omerm\Desktop\Advanced Concepts In C#\Traffic Lights Project\obj\Debug\Traffic_Lights_Project.Form1.resources
